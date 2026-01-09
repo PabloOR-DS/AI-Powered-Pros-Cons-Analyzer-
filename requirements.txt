@@ -1,0 +1,24 @@
+# Core dependencies
+torch==2.3.0
+torchtext==0.18.0
+numpy==2.0.0
+
+# Transformers & NLP
+transformers==4.41.0
+peft==0.11.0
+sentencepiece==0.2.0
+safetensors==0.4.3
+accelerate==0.29.3
+
+# Data processing & utilities
+pandas==2.2.3
+scikit-learn==1.5.2
+nltk==3.8.1
+
+# Visualization & UI
+matplotlib==3.10.0
+gradio==4.39.0
+
+# Data handling
+gdown==5.2.0
+kagglehub==0.3.13
